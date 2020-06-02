@@ -8,6 +8,6 @@ A simple implementation of a live broadcast web-app using the [Agora.io](https:/
 - An understanding of HTML/CSS/JS 
 - An understand of how Bootstrap and JQuery function _(minimal knowledge needed)_
 
-Read the full tutorail on Medium: [Build a Live Broadcasting Web App](https://medium.com/agora-io/) _(link coming soon..)_
+Read the full tutorial on Medium: [Build a Live Broadcasting Web App](https://medium.com/agora-io/) _(link coming soon..)_
 
 Check out the demo of the code in action  _(link coming soon..)_
